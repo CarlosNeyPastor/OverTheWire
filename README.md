@@ -5,4 +5,5 @@ Scripts que mediante su ejecución resuelven el ejercicio planteado por [OverThe
 **Requerimientos**
 
 *Agregar finguerprint de bandit.labs.overthewire.org*
+
 *sshpass*
