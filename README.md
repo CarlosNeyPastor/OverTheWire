@@ -6,4 +6,4 @@ Scripts que mediante su ejecución resuelven el ejercicio planteado por [OverThe
 
 *Agregar finguerprint de bandit.labs.overthewire.org*
 
-*sshpass*
+*Tener instalado en el sistema previamente sshpass*
